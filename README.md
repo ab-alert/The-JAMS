@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 # [The-JAMS]: [Project title]
+=======
 
 **Team**
 
