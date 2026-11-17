@@ -1,15 +1,19 @@
-<<<<<<< HEAD
-# [The-JAMS]: [Project title]
-=======
+# The-JAMS
 
-**Team**
+## Team
 
 | Name | Layer file | Responsible for |
 | --- | --- | --- |
-| [Name] | `layers/[part]_[name].usda` | [e.g. environment] |
-| [Name] | `layers/[part]_[name].usda` | [e.g. lighting] |
-| [Name] | `layers/[part]_[name].usda` | [e.g. props and data] |
+| [Name] | `layers/[part]_[name].usda` | [Responsibility] |
+| [Name] | `layers/[part]_[name].usda` | [Responsibility] |
+| [Name] | `layers/[part]_[name].usda` | [Responsibility] |
 
-**Open the project:** open `main.usda` in USD Composer.
+## Open the project
 
-**Rules:** pull before you start, edit only your own layer, push when you finish.
+Open `main.usda` in USD Composer.
+
+## Collaboration rules
+
+- Pull before you start.
+- Edit only your own layer.
+- Push when you finish.
